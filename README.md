@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Hola! 👋 Soy Ana, estudiante de DAW enfocada en backend. <br>Me encanta sumergirme en cursos de Udemy para aprender todo sobre el arte del backend. <br>Cuando no estoy programando, seguro me encontrarás escuchando música 🎵. <br>Mi meta es convertirme en una maestra del backend y dejar mi huella en el mundo del desarrollo c:
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anai-bernal/) 
 
 # 💻 Tech Stack:
