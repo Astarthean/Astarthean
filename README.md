@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Hola! 👋 Soy Ana, estudiante de DAW enfocada en backend. <br>Me encanta sumergirme en cursos de Udemy para aprender todo sobre el arte del backend. <br>Cuando no estoy programando, seguro me encontrarás escuchando música 🎵. <br>Mi meta es convertirme en una maestra del backend y dejar mi huella en el mundo del desarrollo c:
+Hola! 👋 Soy Ana, estudiante de DAW enfocada en backend. <br>Me encanta sumergirme en cursos de Udemy para aprender todo sobre el arte del backend. <br>Cuando no estoy programando, seguro me encontrarás escuchando música 🎵.
 
 
 ## 🌐 Redes Sociales:
