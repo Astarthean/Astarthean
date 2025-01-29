@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Building applications that don’t break since 2023<br>📚 Learning: The art of creating ultra-fast APIs (and other Udemy courses 🎓)<br>🎯 Goal: Mastering microservices (and anything complicated in the backend 😅)<br>🎲 Fun fact: Programming tastes better with music 🎧⚡<br><br>When the code works on the first try: 🕺✨ (spoiler: it never happens)</p>
+<p align="left">🚀 Building applications that don’t break since 2023<br>📚 Learning: The art of creating ultra-fast APIs (and other Udemy courses 🎓)<br>🎯 Goal: Mastering microservices (and anything complicated in the backend 😅)<br>🎲 Fun fact: Programming tastes better with music 🎧⚡<br></p>
 
 ###
 
